@@ -180,7 +180,7 @@
     #vcalc-panel .btn{background:#2b7cd3;color:white;padding:6px 10px;border-radius:6px;border:none;cursor:pointer}
     #vcalc-panel .small{font-size:12px;color:#bbb}
     #vcalc-panel .close{position:absolute;left:8px;top:6px;cursor:pointer;color:#999}
-    #vcalc-toggle{position:fixed;right:12px;bottom:12px;width:44px;height:44px;border-radius:22px;background:#2b7cd3;color:white;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 18px rgba(0,0,0,0.5);z-index:99999;cursor:pointer;font-weight:bold}
+    #vcalc-toggle{position:fixed;right:12px;bottom:12px;width:77px;height:77px;border-radius:22px;background:#2b7cd3;color:white;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 18px rgba(0,0,0,0.5);z-index:99999;cursor:pointer;font-weight:bold}
     `;
     document.head.appendChild(style);
 
@@ -212,8 +212,8 @@
     // toggle button (always visible)
     const toggle = document.createElement('div');
     toggle.id = 'vcalc-toggle';
-    toggle.title = 'V1';
-    toggle.innerText = 'V1';
+    toggle.title = 'calculater';
+    toggle.innerText = 'calculater';
     document.body.appendChild(toggle);
 
     // initialize visibility from storage (default visible)
