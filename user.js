@@ -34,7 +34,7 @@
         zh: {
             title: "GeoFS V1/VR/V2 计算器（近似）",
             made_by: "由 哔哩哔哩-我是小猪05 小红书-起飞吧！凤凰牌飞机！ GitHub-zssszscnplane 制作",
-            lang_label: "语言",
+            lang_label: "语言 (Language)",
             weight_label: "重量 (kg)",
             tw_label: "T/W (总推力/重力)",
             vstall_label: "Vstall (kt)",
@@ -51,7 +51,7 @@
         en: {
             title: "GeoFS V1/VR/V2 Calculator (approximate)",
             made_by: "由 Bilibili-我是小猪05 Xiaohongshu-起飞吧！凤凰牌飞机！ GitHub-zssszscnplane",
-            lang_label: "Language",
+            lang_label: "语言 (Language）",
             weight_label: "Weight (kg)",
             tw_label: "T/W (thrust/weight)",
             vstall_label: "Vstall (kt)",
